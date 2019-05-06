@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-starter-forty-v2",
-  "description": "Gatsby Starter - Forty V2",
+  "name": "learncodingfree",
+  "description": "learn-coding-free website",
   "version": "1.0.0",
   "author": "Hunter Chang",
   "dependencies": {
@@ -29,6 +29,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/learncodingfree/learnCodingFree.org"
   }
 }
