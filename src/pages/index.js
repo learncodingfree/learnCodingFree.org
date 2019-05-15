@@ -10,7 +10,6 @@ import pic03 from '../assets/images/pic03.jpg'
 import pic04 from '../assets/images/pic04.jpg'
 import pic05 from '../assets/images/pic05.jpg'
 import pic06 from '../assets/images/pic06.jpg'
-import ogImage from '../assets/images/ogImage.png'
 
 class HomeIndex extends React.Component {
     render() {
@@ -24,10 +23,10 @@ class HomeIndex extends React.Component {
                             name: 'description', content: 'JOIN A COMMUNITY OF 20,000+ STUDENTS FROM 50+ COUNTRIES! LEARN HOW TO BE A FULL STACK DEVELOPER NINJA WITH TANAY PRATAP, ENGINEER@MICROSOFT'.toLowerCase()
                         },
                         { name: 'keywords', content: 'react, javascript, data structures' },
-                        { property: 'og:image', content: ogImage }
+                        { property: 'og:image', content: `https://i.imgur.com/QsB7kWS.png` }
                     ]}
                 >
-                    <meta property="og:image" content={ogImage} />
+                    <meta property="og:image" content={`https://i.imgur.com/QsB7kWS.png`} />
                 </Helmet>
 
 
