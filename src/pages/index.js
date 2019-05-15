@@ -24,10 +24,10 @@ class HomeIndex extends React.Component {
                             name: 'description', content: 'JOIN A COMMUNITY OF 20,000+ STUDENTS FROM 50+ COUNTRIES! LEARN HOW TO BE A FULL STACK DEVELOPER NINJA WITH TANAY PRATAP, ENGINEER@MICROSOFT'.toLowerCase()
                         },
                         { name: 'keywords', content: 'react, javascript, data structures' },
-                        { property: 'og:image', content: `url(${ogImage})` }
+                        { property: 'og:image', content: ogImage }
                     ]}
                 >
-                    <meta property="og:image" content={`url(${ogImage})`} />
+                    <meta property="og:image" content={ogImage} />
                 </Helmet>
 
 
