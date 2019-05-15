@@ -7,7 +7,8 @@ const Banner = (props) => (
                 <h1>learncodingfree.org</h1>
             </header>
             <div className="content">
-                <p>Start learning coding for free from industry experts</p>
+                <p>Join a community of 20,000+ students from 50+ countries! <br />Learn how to be a full stack developer ninja <br />with Tanay Pratap, Engineer@Microsoft</p>
+
                 <ul className="actions">
                     <li><a href="#html-course" className="button next scrolly">Get Started</a></li>
                 </ul>
