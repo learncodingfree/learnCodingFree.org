@@ -44,7 +44,7 @@ class HomeIndex extends React.Component {
                         <article style={{ backgroundImage: `url(${pic02})` }}>
                             <header className="major">
                                 <h3>curriculum</h3>
-                                <p>full stack developer, ml, problem solving ninja</p>
+                                <p>javascript, reactjs, pwa, node, mongo, bootstrap, cloud, machine learning, python, test driven development, data structures, algorithms and many more to come</p>
                             </header>
                             <Link to="/curriculum" className="link primary"></Link>
                         </article>
@@ -55,7 +55,7 @@ class HomeIndex extends React.Component {
                                 <p>you will have your own web address once you're done with this</p>
                                 <p>it's smart practice to subscribe to the channel so that you don't miss future lessons</p>
                             </header>
-                            <a target="_blank" href="https://www.youtube.com/watch?v=E8cl_8ktp9M&list=PLzvhQUIpvvug-c-bExl_xFcopeQi_sa29" className="link primary"></a>
+                            <a target="_blank" href="https://www.youtube.com/playlist?list=PLzvhQUIpvvug-c-bExl_xFcopeQi_sa29" className="link primary"></a>
                         </article>
                         <article style={{ backgroundImage: `url(${pic04})` }}>
                             <header className="major">
