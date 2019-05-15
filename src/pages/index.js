@@ -85,7 +85,7 @@ class HomeIndex extends React.Component {
                             </header>
                             <p>Let's build a community where you can get your doubts related to the course answered and you help others to move forward</p>
                             <ul className="actions">
-                                <a target="_blank" href="https://www.facebook.com/groups/2234829076834745/" className="button next"> JOIN THE FB GROUP</a>
+                                <a target="_blank" href="https://www.facebook.com/groups/328710937827045" className="button next"> JOIN THE FB GROUP</a>
                             </ul>
                         </div>
                     </section>
