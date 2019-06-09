@@ -1,0 +1,19 @@
+.vertical-timeline-element-content {
+  width: 44% !important;
+  border-radius: 5px !important;
+  box-shadow: none !important;
+}
+.vertical-timeline-element-title {
+  color: #000;
+}
+.vertical-timeline-element-icon {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(33, 150, 243);
+
+  & > img {
+    max-width: 80%;
+  }
+}
