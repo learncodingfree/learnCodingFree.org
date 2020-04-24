@@ -1,0 +1,16 @@
+[
+  {
+    "header": "html/css basics",
+    "intro": "learn basic tags and style before jumping into anything advanced",
+    "url": "/create-profile-course",
+    "icon": "/assets/images/coding.png",
+    "status": "released"
+  },
+  {
+    "header": "data structures",
+    "intro": "now when you know all of this, start learning DS & Algo to prepare for interviews",
+    "url": "/ds-for-interviews",
+    "icon": "/assets/images/coding.png",
+    "status": "upcoming"
+  }
+]
