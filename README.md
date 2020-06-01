@@ -1,39 +1,38 @@
-# gatsby-starter-forty
+# [LearnCodingFree.org](https://learncodingfree.org/)
 
-**This is a starter for Gatsby.js V2.**
+A platform for developers to learn and sharpen their skills together. Get taught by skilled and experienced developers who help you to achieve better in the todays world.
 
-**The older V1 version of this starter can be found on the v1 branch**
 
-Gatsby.js V2 starter based on the Forty site template, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters/ for more Gatsby starters and templates.
+## Curriclum
 
-## Preview
+Project based mini courses, everything you learn goes on your portfolio, on your github account.
 
-https://gatsby-forty.surge.sh
+Aimed at making you a full stack developer ninja with ML skills 
 
-## Installation
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-<br/>
-`gatsby new gatsby-starter-forty https://github.com/codebushi/gatsby-starter-forty`
+- [JavaScript](https://learncodingfree.org/curriculum)
+- [React](https://learncodingfree.org/curriculum)
+- [PWA](https://learncodingfree.org/curriculum)
+- [Node](https://learncodingfree.org/curriculum)
+- [Mongo](https://learncodingfree.org/curriculum)
+- [Bootstrap](https://learncodingfree.org/curriculum)
+- [Cloud](https://learncodingfree.org/curriculum)
+- [Machine Learning](https://learncodingfree.org/curriculum)
+- [Python](https://learncodingfree.org/curriculum)
+- [Test Driven Development](https://learncodingfree.org/curriculum)
+- [Data Structures](https://learncodingfree.org/curriculum)
+- [Algorithms](https://learncodingfree.org/curriculum)
+- [TypeScript](https://learncodingfree.org/curriculum)
+- [HTML and CSS](https://learncodingfree.org/curriculum)
 
-Run `gatsby develop` in the terminal to start the dev site.
 
-## CSS Grid
+## Community
 
-The grid on this site was replaced with a custom version, built using CSS Grid. It's a very simple 12 column grid that is disabled on mobile. To start using the grid, wrap the desired items with `grid-wrapper`. Items inside the `grid-wrapper` use the class `col-` followed by a number, which should add up to 12.
+The community is the best place for developers as they get to share their thoughts as well as learn new skills. Therefore we have a dedicated community of developers which are eager to help.
+Join us on [Facebook](https://www.facebook.com/groups/328710937827045) or on [Instagram](https://www.instagram.com/tanaypratap/)
 
-Here is an example of using the grid, for a 3 column layout:
+## Instructor
 
-```
-<div className="grid-wrapper">
-    <div className="col-4">
-        <p>Content Here</p>
-    </div>
-    <div className="col-4">
-        <p>Content Here</p>
-    </div>
-    <div className="col-4">
-        <p>Content Here</p>
-    </div>
-</div>
-```
+### Tanay Pratap
+  A Web Developer and Engineer at Microsoft. Skilled in ReactJS, Typescript, Redux, NodeJS, Apollo and GraphQL.
+  For further information visit [website](https://tanaypratap.com/) or [LinkedIn profile](https://www.linkedin.com/in/tpratap/)
